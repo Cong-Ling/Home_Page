@@ -9,12 +9,12 @@ author_profile: true
 I am looking for outstanding and self-motivated PhD students. More information on the application process and funding opportunities is available [here](https://www.imperial.ac.uk/electrical-engineering/study/phd/).
 
 ## Postdocs
-- Christian Porter (Topic: Lattice Reduction)
-- Andrew Mendelsohn (Topic: Lattices)
+- Christian Porter (Topic: Lattices)
+- Andrew Mendelsohn (Topic: Lattice Based Cryptography)
 
 ## PhD Students
 - Lie, Maja (Topic: Lattice Based Cryptography)
-- Yan, Hao (Topic: Information Theory)
+- Yan, Hao (Topic: Coding and Information Theory)
 - Zhao, Nicholas (Topic: Quantum Algorithm)
 - Shen, Yirong (Topic: Information Theory)
 - Ali Sadreddin (Topic: Lattice Based Cryptography)
@@ -76,10 +76,9 @@ PhD students with excellent publication records are strongly encouraged to apply
 - Daniel Valderas, CEIT, Spain (2008)
 - Xiaomei Fu, Tianjin University, China (2009)
 - Wei Liang, Chengdu University of Electronic Science and Technology, China (2013)
-- Juliana Gomes Ferreira de Souza (2022)
-- Franciele do Carmo Silva (2023)
+- Juliana Gomes Ferreira de Souza, University of Campinas, Brazil (2022)
+- Franciele do Carmo Silva, University of Campinas, Brazil (2023)
 - Junfan Hu, Xidian University, China (2023)
-- Anqi Hu, Chongqing University of Posts and Telecommunications, China (2023)
 - Jiaqi Liu, Nankai University, China (2024)
 
 ## Group Photos
