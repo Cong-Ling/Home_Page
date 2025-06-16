@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 **Cong Ling** (凌聪)  
-[Communications and Signal Processing Group](https://www.imperial.ac.uk/electrical-engineering/research/comms-and-signal-processing/)  
 [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/)  
 [Imperial College London](https://www.imperial.ac.uk/)  
 South Kensington Campus  
@@ -26,7 +25,6 @@ Email: [c.ling@imperial.ac.uk](mailto:c.ling@imperial.ac.uk)
 ### Events
 
 - [Lattice Coding & Crypto Meeting](http://malb.io/discrete-subgroup)
-- [NTC Reading group](http://www.commsp.ee.ic.ac.uk/~cling/NTC/ntc.htm)
 - [Workshop on Diophantine approximation and related fields: York 2017](https://www.york.ac.uk/maths/events/2017/workshop-on-diophantine-approximation-and-related/)
 - [Workshop on interactions between number theory and wireless communication: York2016](http://maths.york.ac.uk/www/York2016)
 - [Are lattice codes ready for application in future networks?](https://conferences.telecom-bretagne.eu/data/turbocodes/Symposium2016/Program/booklet_ISTC2016.pdf)
