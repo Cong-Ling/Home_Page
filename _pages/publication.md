@@ -14,9 +14,8 @@ mathjax: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
-- Bollauf, Maiara F., Maja Lie, and Cong Ling. "[On Gaussian Sampling for \( q \)-ary Lattices and Linear Codes with Lee Weight](https://eprint.iacr.org/2025/087)." accepted by *CRYPTO 2025*.
+- Bollauf, Maiara F., Maja Lie, and Cong Ling. "[On Gaussian Sampling for q-ary Lattices and Linear Codes with Lee Weight](https://eprint.iacr.org/2025/087)." accepted by *CRYPTO 2025*.
 - Cong Ling, Jingbo Liu, Andrew Mendelsohn, “[On the spinor genus and the distinguishing lattice isomorphism problem](https://doi.org/10.1007/978-981-96-0894-2_11)”, *International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2024)*, pp. 199–219, 2024.
-**---**
 
 
 ## Journal Papers
