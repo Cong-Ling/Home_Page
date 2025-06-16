@@ -12,27 +12,6 @@ I am looking for outstanding and self-motivated PhD students. More information o
 - Christian Porter (Topic: Lattice Reduction)
 - Andrew Mendelsohn (Topic: Lattices)
 
-### Past Postdocs
-- Dr. Mengfan Zheng (Polar Codes)
-- Dr. Fuchun Lin (Lattice Crypto)
-- [Dr. Antonio Campello](https://www.ime.unicamp.br/~campello/) (now with Wellcome Data Labs)
-- [Dr. Zheng Wang](https://seu-zheng-wang.github.io/) (now with Southeast University)
-- Dr. Anastasios Papazafeiropoulos
-- Dr. Changick Song (now with Korea National University of Transportation)
-- Dr. Wen-Qin Wang (now with UESTC)
-- [Dr. Bashar Ahmad](http://link.eng.cam.ac.uk/Main/BIA23) (now with Cambridge University)
-- Dr. Jason Filos (now at Qualcomm)
-- [Dr. Laura Luzzi](https://www.etis-lab.fr/2022/01/17/luzzi-laura/) (now with ENSEA, France)
-
-### Postdoctoral Fellowships
-In addition to occasional funding from myself, there are opportunities for postdoctoral research fellowships:
-- EU [Marie Curie Fellowship](http://ec.europa.eu/research/mariecurieactions/) (offering attractive salary for 2 years)
-- [Newton International Fellowship](http://www.newtonfellowships.org/)
-- Royal Academy of Engineering Research Fellowship
-- EPSRC Postdoctoral Fellowship
-
-PhD students with excellent publication records are strongly encouraged to apply.
-
 ## PhD Students
 - Lie, Maja (Topic: Lattice Based Cryptography)
 - Yan, Hao (Topic: Information Theory)
@@ -71,6 +50,27 @@ Departmental funding is available to support PhD students. The College also runs
 
 ### Research Assistant
 - Hertz, Victor
+
+### Past Postdocs
+- Dr. Mengfan Zheng (Polar Codes)
+- Dr. Fuchun Lin (Lattice Crypto)
+- [Dr. Antonio Campello](https://www.ime.unicamp.br/~campello/) (now with Wellcome Data Labs)
+- [Dr. Zheng Wang](https://seu-zheng-wang.github.io/) (now with Southeast University)
+- Dr. Anastasios Papazafeiropoulos
+- Dr. Changick Song (now with Korea National University of Transportation)
+- Dr. Wen-Qin Wang (now with UESTC)
+- [Dr. Bashar Ahmad](http://link.eng.cam.ac.uk/Main/BIA23) (now with Cambridge University)
+- Dr. Jason Filos (now at Qualcomm)
+- [Dr. Laura Luzzi](https://www.etis-lab.fr/2022/01/17/luzzi-laura/) (now with ENSEA, France)
+
+### Postdoctoral Fellowships
+In addition to occasional funding from myself, there are opportunities for postdoctoral research fellowships:
+- EU [Marie Curie Fellowship](http://ec.europa.eu/research/mariecurieactions/) (offering attractive salary for 2 years)
+- [Newton International Fellowship](http://www.newtonfellowships.org/)
+- Royal Academy of Engineering Research Fellowship
+- EPSRC Postdoctoral Fellowship
+
+PhD students with excellent publication records are strongly encouraged to apply.
 
 ### Academic Visitors
 - Daniel Valderas, CEIT, Spain (2008)
