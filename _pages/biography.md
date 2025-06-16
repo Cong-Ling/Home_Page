@@ -13,18 +13,5 @@ Cong Ling is currently a Professor of Information Theory and Cryptogaphy in the 
 
 Dr. Ling has been an Associate Editor (in multiterminal communications and lattice coding) of IEEE Transactions on Communications, and an Associate Editor of IEEE Transactions on Vehicular Technology. He is a member of IEEE.
 
-[Communications and Signal Processing Group](https://www.imperial.ac.uk/electrical-engineering/research/comms-and-signal-processing/)  
-[Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/)  
-[Imperial College London](https://www.imperial.ac.uk/)  
-South Kensington Campus  
-London SW7 2AZ, United Kingdom
-
-Office: 815, EE Building  
-Tel: +44 (0)20 759-46214  
-Fax: +44 (0)20 759-46302  
-Email: [c.ling@imperial.ac.uk](mailto:c.ling@imperial.ac.uk)
-
-[Direction](http://www.imperial.ac.uk/visit/campuses/south-kensington/)
-
 
 
