@@ -17,9 +17,11 @@ mathjax: true
 - S Lyu, L Liu, C Ling, Learning With Quantization: A Ciphertext Efficient Lattice Problem with Tight Security Reduction from LWE, Cryptology ePrint Archive
 - C Ling, L Luzzi, H Yan, The Rényi Smoothing Parameter and Its Applications in Lattice-Based Cryptography,
 Cryptology ePrint Archive
+- Andrew Mendelsohn and Cong Ling, On the Security of Group Ring Learning with Errors. IACR Communications in Cryptology, vol. 2, no. 2, 2025. 
 - Maiara F. Bollauf, Maja Lie, and Cong Ling. "[On Gaussian Sampling for q-ary Lattices and Linear Codes with Lee Weight](https://eprint.iacr.org/2025/087)." *CRYPTO 2025*.
 - Cong Ling, Jingbo Liu, Andrew Mendelsohn, “[On the spinor genus and the distinguishing lattice isomorphism problem](https://doi.org/10.1007/978-981-96-0894-2_11)”, *International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2024)*, pp. 199–219, 2024.
-- Alar Leibak, Christian Porter, Cong Ling, “[Unit reducible fields and perfect unary forms](https://doi.org/10.5802/jtnb.1267)”, *Journal de Théorie des Nombres de Bordeaux*, vol. 35, no. 3, pp. 867–895, 2023. 
+- Alar Leibak, Christian Porter, Cong Ling, “[Unit reducible fields and perfect unary forms](https://doi.org/10.5802/jtnb.1267)”, *Journal de Théorie des Nombres de Bordeaux*, vol. 35, no. 3, pp. 867–895, 2023.
+- Charles Grover, Andrew Mendelsohn, Cong Ling, Roope Vehkalahti, “[Non-commutative Ring Learning with Errors from Cyclic Algebras](https://doi.org/10.1007/s00145-022-09430-6)”, *Journal of Cryptology*, vol. 35, no. 3, p. 22, 2022.
 
 ## Journal Papers
 
