@@ -14,6 +14,9 @@ mathjax: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
+- S Lyu, L Liu, C Ling, Learning With Quantization: A Ciphertext Efficient Lattice Problem with Tight Security Reduction from LWE, Cryptology ePrint Archive
+- C Ling, L Luzzi, H Yan, The Rényi Smoothing Parameter and Its Applications in Lattice-Based Cryptography,
+Cryptology ePrint Archive
 - Maiara F. Bollauf, Maja Lie, and Cong Ling. "[On Gaussian Sampling for q-ary Lattices and Linear Codes with Lee Weight](https://eprint.iacr.org/2025/087)." *CRYPTO 2025*.
 - Cong Ling, Jingbo Liu, Andrew Mendelsohn, “[On the spinor genus and the distinguishing lattice isomorphism problem](https://doi.org/10.1007/978-981-96-0894-2_11)”, *International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2024)*, pp. 199–219, 2024.
 - Alar Leibak, Christian Porter, Cong Ling, “[Unit reducible fields and perfect unary forms](https://doi.org/10.5802/jtnb.1267)”, *Journal de Théorie des Nombres de Bordeaux*, vol. 35, no. 3, pp. 867–895, 2023. 
@@ -22,6 +25,7 @@ mathjax: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
+- Andrew Mendelsohn and Cong Ling, Learning with Errors from Nonassociative Algebras. IACR Communications in Cryptology, vol. 1, no. 4, Jan 13, 2025, doi: 10.62056/aee0wa3y6. 
 - Andrew Mendelsohn, Edmund Dable-Heath, Cong Ling, “[A small serving of mash: (Quantum) algorithms for SPDH-Sign with small parameters](https://doi.org/10.1515/jmc-2024-0025)”, *Journal of Mathematical Cryptology*, vol. 19, no. 1, paper 20240025, 2025.
 - Christian Porter, Edmund Dable-Heath, Cong Ling, “[A new bound for the orthogonality defect of HKZ reduced lattices](https://doi.org/10.1007/s40993-024-00554-1)”, *Research in Number Theory*, vol. 10, no. 3, p. 65, Jul. 2024.  
 - Andrew Mendelsohn, Cong Ling, “[Fractional non-norm elements for division algebras, and an application to Cyclic Learning with Errors](https://doi.org/10.3934/amc.2023043)”, *Advances in Mathematics of Communications*, vol. 18, no. 2, pp. 410–424, Apr. 2024.  
