@@ -16,7 +16,7 @@ mathjax: true
 
 - Maiara F. Bollauf, Maja Lie, and Cong Ling. "[On Gaussian Sampling for q-ary Lattices and Linear Codes with Lee Weight](https://eprint.iacr.org/2025/087)." *CRYPTO 2025*.
 - Cong Ling, Jingbo Liu, Andrew Mendelsohn, “[On the spinor genus and the distinguishing lattice isomorphism problem](https://doi.org/10.1007/978-981-96-0894-2_11)”, *International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2024)*, pp. 199–219, 2024.
-
+- Alar Leibak, Christian Porter, Cong Ling, “[Unit reducible fields and perfect unary forms](https://doi.org/10.5802/jtnb.1267)”, *Journal de Théorie des Nombres de Bordeaux*, vol. 35, no. 3, pp. 867–895, 2023. 
 
 ## Journal Papers
 
