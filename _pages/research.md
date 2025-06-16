@@ -5,14 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-My research covers coding and information theory, post-quantum cryptography, communications and signal processing, with an emphasis on lattices and their applications. A lattice is a regular array of points which generalizes the concept of the integers to multiple dimensions. Lattices are central objects in modern number theory, underpin sphere packing and capacity-achieving codes, and are the leading approach to post-quantum cryptography. Our work lies at the interface of information theory, number theory, cryptography and quantum information.
+My research focuses on the study of lattices and their applications to coding and cryptography, as well as exploring their connections with number theory and quantum information. A lattice is a regular array of points which generalizes the concept of the integers to multiple dimensions. Lattices are central objects in modern number theory, underpin sphere packing and capacity-achieving codes, and are the leading approach to post-quantum cryptography. Our work lies at the interface of information theory, number theory, cryptography and quantum information.
 
 **Current interests**
 
-- Lattice coding and cryptography
-- Coding and wireless communications
-- Information theory
-- Signal processing
+- Post-quantum cryptography
+- Coding and information theory
 
 ## Selected research projects
 
