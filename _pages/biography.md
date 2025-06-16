@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 **Cong Ling** (凌聪)  
 
 Cong Ling is currently a Professor of Information Theory and Cryptogaphy in the Electrical and Electronic Engineering Department at Imperial College London. He is a member of the [Academic Centre of Excellence in Cyber Security Research](http://www3.imperial.ac.uk/securesoftwaresystems) at Imperial College and an affiliated member of the [Institute of Security Science and Technology](http://www3.imperial.ac.uk/securityinstitute) of Imperial College.
